@@ -1,5 +1,5 @@
 # asah-cms
-/***********************************************************
+
 * ASAH- CMS Rev:1.0
 * ---------------------------------
 * ASAH-CMS - Electrónica ML
@@ -12,4 +12,3 @@
 * Desarrolladores:
 * Adrián Manuel López Cosenza amlc@electronicaml.com.ve
 * Sonyad Maristher Dagger De López sony@electronicaml.com.ve
-***********************************************************/
